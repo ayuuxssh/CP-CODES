@@ -60,6 +60,9 @@ return prev;
 
     }
     //All houses are arranged in circle.
+    // IN THIS WE HAVE TO FIND THE MAXIMUM OF ANS1 AND ANS2
+    //ANS1 - CONTAINS 1 TO N-1
+    //ANS2 - CONTAINS 2 TO N
     public static void main(String[] args) {
 int [] arr ={1,2};
 int n = arr.length;
